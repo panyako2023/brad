@@ -29,6 +29,7 @@ li{
     height:350px;
 }
 .para{
+    display:absolute;
     text-align:left;
     padding-top:39%;
     padding-left:4%;
@@ -37,16 +38,56 @@ li{
 
 }
 .para2{
+    display:absolute;
     text-align:left;
     padding-left:4%;
     font-family: Arial, Helvetica, sans-serif;
     font-size:20px;
 }
 #btn1{
+    display:absolute;
     padding-left:4%;
     padding-top:2%;
 
 }
 #btn{
     width:200px;
+}
+.section{
+    display:absolute;
+    padding-top:10%;
+    padding-left:4%;
+}
+.para3{
+    font-weight:noraml;
+    font-style:serif;
+    font-size:25px;
+}
+.pimage{
+    display:absolute;
+    padding-left:5%;
+    height:40px;
+    width:200px;
+}
+.header4{
+    font-weight:bold;
+    font-size:50px
+
+}
+#star{
+    display:flex;
+    height:80px;
+    width:130px;
+    display:absolute;
+    text-align:center;
+    padding-left:22%;
+}
+.rate{
+    font-weight:bold;
+}
+#row2{
+    padding-left:8%;
+}
+.body{
+    background-color:azure;
 }
