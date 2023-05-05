@@ -77,10 +77,10 @@ li{
 #star{
     display:flex;
     height:80px;
-    width:130px;
+    width:200px;
     display:absolute;
     text-align:center;
-    padding-left:22%;
+    padding-left:28%;
 }
 .rate{
     font-weight:bold;
@@ -94,6 +94,20 @@ li{
 #row3{
     padding-left:17%;
 }
-.header5{
+.rate2{
+    font-weight:bold;
+    font-size:20px;
+    font-style:serif;
+}
+.name{
+    color:green;
+    padding-top:4%;
+}
+.owner{
+    height:10px;
+}
+h4{
+    font-weight:bold;
+    font-style:serif;
 
 }
