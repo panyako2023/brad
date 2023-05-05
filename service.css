@@ -7,7 +7,7 @@
     padding-left:11%;
     font-weight:550;
 }
-.image{
+.images{
     height:300px;
     width:305px;
 }
@@ -25,4 +25,12 @@ h3{
     text-align:justify;
     padding-top:4%;
 
+}
+.navigation{
+    background-color:bisque;
+}
+.image{
+    height:40px;
+    width:290px;
+    padding-left:10%;
 }
